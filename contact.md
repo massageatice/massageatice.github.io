@@ -7,7 +7,7 @@ title: Contact
 featured-img: /assets/logo.png
 ---
 
-919.238.8474
+916.238.8474
 
 massageatice@gmail.com
 
