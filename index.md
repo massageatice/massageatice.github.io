@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![useful image]({{ site.url }}/assets/logo.png)
+<img src="{{site.baseurl}}/assets/logo.png" alt="">
